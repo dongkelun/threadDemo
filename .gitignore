@@ -1,0 +1,6 @@
+asspath
+.project
+.settings/
+/bin/**/*.class
+*.class
+/bin/
